@@ -1,16 +1,14 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**d4v1dalves448/d4v1dalves448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! O meu nome é David Alves e tenho 17 anos. <br>
+Sou estudante de programação informática na escola INTEP.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Python
+- C#
+
+## Contato
+
+- Email: [davidalves.201553@epff-intep.pt](mailto:davidalves.201553@epff-intep.pt)
